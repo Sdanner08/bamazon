@@ -6,7 +6,7 @@ This application features purchasing system for both a customer or manager
 Customer Application:
 This is an interface to allow a customer to purchase an item. 
 It will update the database in real time to change the quanity of the items instock.
-![alt text](customerBuy.png)
+![alt text](/images/customerBuy.png)
 
 
 Manager Application:
